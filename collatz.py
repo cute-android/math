@@ -27,3 +27,4 @@ for n in range(i):
 plt.scatter(x,y)
 plt.plot(x,y)
 plt.show()
+
